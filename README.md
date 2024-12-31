@@ -1,2 +1,2 @@
 # Power-Bi-Dashboard-for-Annual-sales-
-Created a dashboard for annual sales  
+Created A Dashboard for calculating the annual sales along with Profit
